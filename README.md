@@ -2,7 +2,7 @@
 ## BootCamp JS 25
 
 Tecnologias usadas:
--HTML5 
--CSS3
--GIT
--BOOTSTRAP
+- HTML5 
+- CSS3
+- GIT
+- BOOTSTRAP
