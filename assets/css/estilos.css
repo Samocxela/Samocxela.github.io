@@ -41,11 +41,7 @@ body {
    }
 
 }
-.colaborativo{
-  width: 800px;
-  height: 250px;
-  
-}
+
 .fondo{
   background-image: url(../img/programacion-3.jpg);
   background-repeat: no-repeat;
@@ -53,7 +49,7 @@ body {
   background-attachment:fixed;
 }
 form{
-  width:800px;
+  width:auto;
   margin:auto;
   padding: 10px,20px;
   box-sizing: border-box;
