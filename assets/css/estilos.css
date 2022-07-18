@@ -1,0 +1,63 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+/* Hero Section */
+
+#Hero-Section {
+  height: 500px;
+  background-image: url("../img/programacion-3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  
+}
+
+/* Mis trabajos */
+
+#Mis-trabajos .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Contacto */
+
+#Contacto form label {
+
+  font-weight: 700;
+  color: #373a3c;
+}
+
+@media (max-width: 768px) {
+  #Contacto form label {
+    font-weight: 400;
+  }
+
+  .navbar-brand{
+    width: 100px;
+   }
+
+}
+.colaborativo{
+  width: 800px;
+  height: 250px;
+  
+}
+.fondo{
+  background-image: url(../img/programacion-3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment:fixed;
+}
+form{
+  width:800px;
+  margin:auto;
+  padding: 10px,20px;
+  box-sizing: border-box;
+  margin-top: 20px;
+  border-radius: 7px;
+  opacity: 75%;
+}
